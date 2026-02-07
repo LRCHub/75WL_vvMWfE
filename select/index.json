@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "alma",
+  "base_artist": "酔シグレ",
+  "createdAt": "2026-02-07T09:13:01.370317Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Alma Mater",
+      "artist": "Rolo Tomassi",
+      "has_synced": true,
+      "path": "select/01_Alma_Mater_Rolo_Tomassi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Alma de Acero",
+      "artist": "José Alfredo Jiménez",
+      "has_synced": true,
+      "path": "select/02_Alma_de_Acero_José_Alfredo_Jiménez.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Amor Del Alma",
+      "artist": "José Alfredo Jiménez",
+      "has_synced": true,
+      "path": "select/03_Amor_Del_Alma_José_Alfredo_Jiménez.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Las Llaves de Mi Alma",
+      "artist": "Vicente Fernández",
+      "has_synced": true,
+      "path": "select/04_Las_Llaves_de_Mi_Alma_Vicente_Fernández.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Be Bop Medley: Hot House / East Of Suez [Come On Sailor] / Epistrophy [I Wanna Play] / Yardbird Suite / Con Alma / Giant Steps",
+      "artist": "Chaka Khan",
+      "has_synced": true,
+      "path": "select/05_Be_Bop_Medley__Hot_House___East_Of_Suez_[Come_On_Sailor]___Epistrophy_[I_Wanna_P_Chaka_Khan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Be Bop Medley: Hot House \u0000 East Of Suez (Come On Sailor) \u0000 Epistrophy (I Wanna Play) \u0000 Yardbird Suite \u0000 Con Alma \u0000 Giant Steps",
+      "artist": "Chaka Khan",
+      "has_synced": true,
+      "path": "select/06_Be_Bop_Medley__Hot_House_\u0000_East_Of_Suez_(Come_On_Sailor)_\u0000_Epistrophy_(I_Wanna_P_Chaka_Khan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Long Train Running (Alma De Noche Mix)",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/07_Long_Train_Running_(Alma_De_Noche_Mix)_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bitches (feat. Charli XCX, Icona Pop, Elliphant & Alma)",
+      "artist": "Tove Lo",
+      "has_synced": true,
+      "path": "select/08_Bitches_(feat._Charli_XCX,_Icona_Pop,_Elliphant_&_Alma)_Tove_Lo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Out of My Head (feat. Tove Lo and ALMA)",
+      "artist": "Charli XCX feat. Tove Lo & ALMA",
+      "has_synced": true,
+      "path": "select/09_Out_of_My_Head_(feat._Tove_Lo_and_ALMA)_Charli_XCX_feat._Tove_Lo_&_ALMA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Out of My Head (feat. Tove Lo and ALMA)",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/10_Out_of_My_Head_(feat._Tove_Lo_and_ALMA)_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Out of My Head (feat. Tove Lo & ALMA)",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/11_Out_of_My_Head_(feat._Tove_Lo_&_ALMA)_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Alma Negra",
+      "artist": "Helstar",
+      "has_synced": false,
+      "path": "select/12_Alma_Negra_Helstar.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Alma Mater",
+      "artist": "Moonspell",
+      "has_synced": true,
+      "path": "select/13_Alma_Mater_Moonspell.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "In Us I Believe (feat. ALMA)",
+      "artist": "Clean Bandit feat. ALMA",
+      "has_synced": true,
+      "path": "select/14_In_Us_I_Believe_(feat._ALMA)_Clean_Bandit_feat._ALMA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lo Que Tu Alma Escribe",
+      "artist": "TINI",
+      "has_synced": true,
+      "path": "select/15_Lo_Que_Tu_Alma_Escribe_TINI.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Beautiful Maria of My Soul (Bella Maria de mi alma)",
+      "artist": "Paola&Chiara",
+      "has_synced": true,
+      "path": "select/16_Beautiful_Maria_of_My_Soul_(Bella_Maria_de_mi_alma)_Paola&Chiara.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "alma",
+      "artist": "酔シグレ",
+      "has_synced": false,
+      "path": "select/pl_01_alma_酔シグレ.txt"
+    }
+  ]
+}
